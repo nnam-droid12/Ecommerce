@@ -1,0 +1,19 @@
+.form-field{
+	width:250px;
+	display: inline-block;
+	padding: 5px;
+}
+.hidden{
+	display: none!important;
+}
+.cart-row{
+	display: flex;
+    align-items: flex-stretch;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ececec;
+
+}
+.row-image{
+	width: 100px;
+}
